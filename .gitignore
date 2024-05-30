@@ -94,6 +94,7 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
+
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -123,3 +124,6 @@ poetry.lock
 
 # Jupyter Notebook metadata
 *.ipynb_checkpoints/
+
+token.pickle
+credentials.json
